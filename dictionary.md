@@ -1,6 +1,10 @@
 ## Dictionary
+* [biradoznao](/dict/biradoznao)
 * [de jager](/dict/de-jager)
 * [gaja](/dict/gaja)
 * [gaja inteo](/dict/gaja-inteo)
+* [gej](/dict/gej)
+* [hinsegin](/dict/hinsegin)
 * [inteo](/dict/inteo)
 * [pān](/dict/pān)
+* [sekutu](/dict/sekutu)
