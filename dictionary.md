@@ -15,3 +15,4 @@ If you want an example of Legabat, click [here](/legabat-example).
 * [inteo](/dict/inteo)
 * [pān](/dict/pān)
 * [sekutu](/dict/sekutu)
+* [telaviv](/dict/telaviv)
